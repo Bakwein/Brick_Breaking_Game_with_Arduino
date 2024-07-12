@@ -1,5 +1,5 @@
 # Brick Breaking Game with Arduino
-Brick breaker game with 5 levels using Ardunio Mega <a href="https://wokwi.com/projects/393648704630320129"> Try It! </a>
+Brick breaker game with 5 levels using Ardunio Mega <a href="https://wokwi.com/projects/393648704630320129"> Try It Live! </a>
 
 ## Photos
 
